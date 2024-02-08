@@ -3,15 +3,13 @@
 body {font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;	margin: 0 auto;
 }
 .homePage {
-	background: #222222;
-}
+	background: #FFFFFF}
 .container {
 	width: 960px;
 	margin: 0 auto;
 }
 .header {
-	background: #AAAAAA;
-	text-align: center;
+	background: #F4B5DD	text-align: center;
 	margin: 0px;
 	padding: 5;
 	float: left;
@@ -20,8 +18,7 @@ body {font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;	margin: 0 auto;
 	
 }
 .nav {
-	background: #BBBBBB;
-	margin: 0px;
+	background: ##89A2F5	margin: 0px;
 	padding: 5;
 	float: left;
 	width: 100%;
@@ -29,16 +26,14 @@ body {font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;	margin: 0 auto;
 	text-align: center;
 }
 .content {
-	background: #EEEEEE;
-	margin: 0px;
+	background: ##F58A6E	margin: 0px;
 	float: left;
 	width: 100%;
 	height: 400px;
 	text-align: center;
 }
 .footer {
-	background: #777777;
-	margin: 0px;
+	background: ##D4CFF4	margin: 0px;
 	float: left;
 	width: 100%;
 	height: 50px;
