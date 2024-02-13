@@ -9,7 +9,7 @@ body {font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;	margin: 0 auto;
 	margin: 0 auto;
 }
 .header {
-	background: #F4B5DD	text-align: center;
+	background: #9574E0	text-align: center;
 	margin: 0px;
 	padding: 5;
 	float: left;
@@ -18,7 +18,7 @@ body {font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;	margin: 0 auto;
 	
 }
 .nav {
-	background: ##89A2F5	margin: 0px;
+	background: #CFC9E0 margin: 0px;
 	padding: 5;
 	float: left;
 	width: 100%;
@@ -33,7 +33,7 @@ body {font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;	margin: 0 auto;
 	text-align: center;
 }
 .footer {
-	background: ##D4CFF4	margin: 0px;
+	background: #BBCADFmargin: 0px;
 	float: left;
 	width: 100%;
 	height: 50px;
