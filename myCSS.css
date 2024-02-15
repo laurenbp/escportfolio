@@ -6,11 +6,11 @@ body {font: 100 %/1.4 Verdana, Arial, Helvetica, sans-serif;	margin: 15 auto;
 	background: #FFFFFF}
 .container {
 	width: 960 px;
-	margin: 0 auto;
+	margin: 960 auto;
 }
 .header {
 	background: #F7ECEE text-align: center;
-	margin: 0 px;
+	margin: 400 px;
 	padding: 5;
 	float: left;
 	width: 100 %;
